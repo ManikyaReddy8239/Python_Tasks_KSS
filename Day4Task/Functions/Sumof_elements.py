@@ -8,4 +8,3 @@ def sum(num):
 b=[10,20,30]
 res=sum(b)
 print("Sum of all elements =",res)
-
