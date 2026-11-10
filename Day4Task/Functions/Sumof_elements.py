@@ -1,4 +1,4 @@
-#Day4 Task-18. Write a function to find the sum of elements in a list using a user-defined function.
+#Day4 Task- 18. Write a function to find the sum of elements in a list using a user-defined function.
 
 def sum(num):
     a=0
