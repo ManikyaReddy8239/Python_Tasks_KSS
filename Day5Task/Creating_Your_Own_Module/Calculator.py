@@ -1,0 +1,16 @@
+'''Create a Python module named calculator.py that contains functions
+to perform: 
+● Addition 
+● Subtraction 
+● Multiplication 
+● Division '''
+
+
+def add(a,b):
+    return(a+b)
+def subt(a,b):
+    return(a-b)
+def multi(a,b):
+    return(a*b)
+def div(a,b):
+    return(a/b)
