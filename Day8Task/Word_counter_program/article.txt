@@ -1,0 +1,2 @@
+Python is highlevel programing language
+Python is easy to learn.
