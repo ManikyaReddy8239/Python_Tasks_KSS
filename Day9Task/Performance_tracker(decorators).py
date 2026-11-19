@@ -1,0 +1,19 @@
+'''14. Performance Tracker (Decorators) 
+A software team wants to track how long functions take to execute.
+Create a decorator 
+that measures and prints the execution time of a function. '''
+
+import time
+def timer(func):
+    def wrapper():
+        start=time.time()
+        func()
+        end=time.time()
+        print("Execution time:",end-start)
+    return wrapper
+@timer
+def test():
+    print("Task is running...")
+    time.sleep(2)
+test()
+        
