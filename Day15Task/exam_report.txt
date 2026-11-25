@@ -1,0 +1,14 @@
+STUDENT EXAM REPORT
+===================
+
+      Name  Marks Grade Result
+0    Alice     13     F   Fail
+1      Bob     33     F   Fail
+2  Charlie     28     F   Fail
+3    David    100     A   Pass
+4     Emma     58     E   Pass
+
+Exam Statistics
+----------------
+Mean Marks: 46.40
+Standard Deviation: 30.47

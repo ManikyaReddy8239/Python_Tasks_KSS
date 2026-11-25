@@ -1,0 +1,9 @@
+Students score processor:------------------------Student records:Rahul:85
+Priya:45
+Raju:75
+Ravi:83
+Radha:35
+Students scoring above 50:Rahul:85
+Raju:75
+Ravi:83
+Average marks:{average}
